@@ -65,6 +65,6 @@ function Panel({ updateAt, onChange, data, country, getCoviddata }) {
       </CardPanelContentStyled>
     </Card>
   )
-}
+} 
 
 export default memo(Panel)
